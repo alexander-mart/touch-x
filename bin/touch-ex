@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# v0.0.1
+
+if [ -z "$1" ]
+    then
+        echo "Please, type filename as an argument, for example:"
+        echo "touch-ex <filename>"
+        exit 1
+else
+    shebang_bash="#!/bin/bash"
+    echo "$shebang_bash" > "$1" &&
+    echo "" >> "$1" &&
+    chmod +x "$1"
+fi
