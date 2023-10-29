@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/github/license/alexander-mart/touch-ex)
 ![Static Badge](https://img.shields.io/badge/topic-unix--philosophy-blue?logo=github&link=https%3A%2F%2Fgithub.com%2Ftopics%2Funix-philosophy)
 
-A small command to create a new script file and give it executable permission (touch &amp; add bash shebang &amp; chmod +x)
+One command to create a new script file and give it executable permission (touch &amp; add bash shebang &amp; chmod +x)
 
 
 ## Usage
