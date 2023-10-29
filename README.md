@@ -70,6 +70,7 @@ wget -qO - https://raw.githubusercontent.com/alexander-mart/touch-x/main/bin/tou
 
 ## TODO
 
+- [ ] check if file exist then exit
 - [x] add bash shebang by default
 - [ ] add any shebang from library (`sh`, `python3`, etc...) with not requried parameter `-s|--shebang=<shebang>`
   - [ ] [Shebang snippets list](https://github.com/Rpinski/vscode-shebang-snippets/blob/master/snippets/shebang-plaintext.json)
