@@ -16,6 +16,13 @@ One command to create a new script file and give it executable permission (touch
 3. Make it file executable: `chmod +x <filename>`
 
 
+### How to use
+
+```sh
+$ touch-x <filename>
+```
+
+
 ### Install with [basher](https://www.basher.it/)
 
 ```sh
