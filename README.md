@@ -23,10 +23,25 @@ $ touch-x <filename>
 ```
 
 
+## Installation
+
 ### Install with [basher](https://www.basher.it/)
 
 ```sh
 $ basher install alexander-mart/touch-x
+```
+
+### Install with curl
+
+```sh
+curl -s https://raw.githubusercontent.com/alexander-mart/touch-x/main/bin/touch-x | bash -s install
+```
+
+
+### Install with wget
+
+```sh
+wget -qO - https://raw.githubusercontent.com/alexander-mart/touch-x/main/bin/touch-x | bash -s install
 ```
 
 
