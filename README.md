@@ -9,6 +9,13 @@ A small command to create a new script file and give it executable permission (t
 
 ## Usage
 
+### What does it do
+
+1. Create new file: `touch <filename>`
+2. Add shebang: `echo "#!/bin/bash" > <filename>`
+3. Make it file executable: `chmod +x <filename>`
+
+
 ### Install with [basher](https://www.basher.it/)
 
 ```sh
