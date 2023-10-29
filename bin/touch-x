@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# v0.0.1
+# v0.0.2
 
 if [ -z "$1" ]
     then
         echo "Please, type filename as an argument, for example:"
-        echo "touch-ex <filename>"
+        echo "touch-x <filename>"
         exit 1
 else
     shebang_bash="#!/bin/bash"

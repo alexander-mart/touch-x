@@ -1,7 +1,7 @@
-# touch-ex
+# touch-x
 
 [![basher install](https://www.basher.it/assets/logo/basher_install.svg)](https://www.basher.it/)
-![GitHub](https://img.shields.io/github/license/alexander-mart/touch-ex)
+![GitHub](https://img.shields.io/github/license/alexander-mart/touch-x)
 ![Static Badge](https://img.shields.io/badge/topic-unix--philosophy-blue?logo=github&link=https%3A%2F%2Fgithub.com%2Ftopics%2Funix-philosophy)
 
 One command to create a new script file and give it executable permission (touch &amp; add bash shebang &amp; chmod +x)
@@ -19,7 +19,7 @@ One command to create a new script file and give it executable permission (touch
 ### Install with [basher](https://www.basher.it/)
 
 ```sh
-$ basher install alexander-mart/touch-ex
+$ basher install alexander-mart/touch-x
 ```
 
 
@@ -50,3 +50,6 @@ $ basher install alexander-mart/touch-ex
 
 - [x] add bash shebang by default
 - [ ] add any shebang from library (`sh`, `python3`, etc...) with not requried parameter `-s|--shebang=<shebang>`
+  - [ ] [Shebang snippets list](https://github.com/Rpinski/vscode-shebang-snippets/blob/master/snippets/shebang-plaintext.json)
+- [ ] [Make Linux/Unix Script Portable With #!/usr/bin/env As a Shebang](https://www.cyberciti.biz/tips/finding-bash-perl-python-portably-using-env.html)
+- [ ] [awesome package manager](https://github.com/shinokada/awesome) support: `ls -s ./bin/touch-x ./touch-x`
