@@ -53,3 +53,8 @@ $ basher install alexander-mart/touch-x
   - [ ] [Shebang snippets list](https://github.com/Rpinski/vscode-shebang-snippets/blob/master/snippets/shebang-plaintext.json)
 - [ ] [Make Linux/Unix Script Portable With #!/usr/bin/env As a Shebang](https://www.cyberciti.biz/tips/finding-bash-perl-python-portably-using-env.html)
 - [ ] [awesome package manager](https://github.com/shinokada/awesome) support: `ls -s ./bin/touch-x ./touch-x`
+
+
+## Other projects
+
+- 🦁 [rugit](https://github.com/alexander-mart/rugit) — run command & semantic git commit it
