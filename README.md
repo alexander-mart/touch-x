@@ -37,3 +37,9 @@ $ basher install alexander-mart/touch-ex
 ```markdown
 ![Static Badge](https://img.shields.io/badge/topic-unix--philosophy-blue?logo=github&link=https%3A%2F%2Fgithub.com%2Ftopics%2Funix-philosophy)
 ```
+
+
+## TODO
+
+- [x] add bash shebang by default
+- [ ] add any shebang from library (`sh`, `python3`, etc...) with not requried parameter `-s|--shebang=<shebang>`
